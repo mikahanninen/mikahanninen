@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Mika, Mika Hänninen
+### Hi there 👋, my name is Hänninen, Mika Hänninen
 #### I am developer @ Robocorp Inc
-![I am developer @ Robocorp Inc](https://github.com/mikahanninen/mikahanninen/banner.jpg)
 
 
 Skills: Python / Robot Framework / RPA

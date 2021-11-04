@@ -4,7 +4,7 @@
 
 Skills: Python / Robot Framework / RPA
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently supporting Robocorp users
 - 📫 How to reach me: mika.hanninen@gmail.com
 
 

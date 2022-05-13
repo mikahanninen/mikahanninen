@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hänninen, Mika Hänninen
+### Hi there 👋, my name is Mika Hänninen
 #### I am developer @ Robocorp Inc
 
 

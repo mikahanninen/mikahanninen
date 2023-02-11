@@ -13,6 +13,4 @@ Skills: Python / Robot Framework / RPA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikahanninen&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mikahanninen)
 
-<a href="https://app.daily.dev/mikahanninen"><img src="https://api.daily.dev/devcards/fe9d6a8cf5d24f64be4da6657ecb2319.png?r=d0j" width="400" alt="Mika Hänninen's Dev Card"/></a>

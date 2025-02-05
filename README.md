@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Mika Hänninen
-#### I am developer @ Robocorp Inc
+#### I am an engineer @ Sema4.ai
 
 
-Skills: Python / Robot Framework / RPA
+Skills: Python / Robot Framework / AI / RPA 
 
-- 🔭 I’m currently supporting Robocorp users
+- 🔭 I’m currently supporting Sema4.ai / Robocorp users
 - 📫 How to reach me: mika.hanninen@gmail.com
 
 
